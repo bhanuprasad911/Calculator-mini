@@ -63,3 +63,8 @@ button{
     ;
 }
 
+@media screen and (max-width: 600px) {
+.calc{
+    width: 80%;
+}
+
